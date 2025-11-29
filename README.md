@@ -55,10 +55,6 @@ Não escrevo apenas código, eu desenho soluções. Meu processo de automação 
 
 ---
 
-### 📊 GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=maicuu&show_icons=true&theme=dracula)
-
 ---
 
 ### 📫 Vamos automatizar?
