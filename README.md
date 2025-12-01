@@ -42,7 +42,7 @@ Aqui estão algumas das soluções que desenvolvi focadas em escalabilidade e co
 - Disparo automático de notificação via API do WhatsApp.
 - **Resultado:** Redução do tempo de resposta ao cliente de 2 horas para 5 segundos.
 - **Techs:** n8n, Webhooks, JSON.
-[Link para o Repositório](https://github.com/maicuu/automacao-crm-n8n) (Insira o link aqui)
+[Link para o Repositório](https://github.com/maicuu/automacao-crm-n8n)
 
 ---
 
