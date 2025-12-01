@@ -32,7 +32,7 @@ Aqui estão algumas das soluções que desenvolvi focadas em escalabilidade e co
 - Sistema de **disparo de mensagens em massa** com controle de delay (para evitar banimento).
 - Listener de eventos para criar **chatbots de autoatendimento**.
 - **Techs:** JavaScript, Node.js, Baileys Library.
-[Link para o Repositório](https://github.com/maicuu/bot-whatsapp-baileys) 
+[Link para o Repositório]([https://github.com/maicuu/bot-whatsapp-baileys](https://github.com/maicuu/baileys-whatsapp-bot)) 
 
 #### 2. Orquestração de CRM e Notificações (n8n)
 **O Desafio:** Integrar leads chegando de formulários web diretamente para o WhatsApp da equipe de vendas.
