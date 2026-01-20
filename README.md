@@ -1,65 +1,76 @@
 # Olá, eu sou Maicon! 👋
-## Especialista em Automação & Low-Code
+## Full-Stack Software Engineer | Especialista em SaaS & Automação
 
-> *"Transformando processos manuais em fluxos inteligentes e eficientes."*
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/github/followers/maicuu?style=for-the-badge&color=blue" alt="Followers">
+</p>
 
-Sou um desenvolvedor focado em **Automação de Processos** e integração de sistemas. Minha especialidade é unir a robustez do **JavaScript** com a agilidade do **n8n** para criar soluções que economizam tempo e dinheiro.
+> *"Transformando processos manuais em sistemas escaláveis, inteligentes e eficientes."*
 
----
-
-### 🛠️ Tech Stack
-
-**Core:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Ferramentas & Integrações:**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Sou um desenvolvedor focado em resolver problemas reais de negócio. Minha expertise transita desde a construção de arquiteturas robustas com **Java/Spring Boot** até a orquestração de fluxos inteligentes com **n8n** e **Node.js**. Desenvolvo soluções que estão hoje no "chão de fábrica", gerando lucro e produtividade.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🛠️ Minhas Stacks & Ferramentas
 
-Aqui estão algumas das soluções que desenvolvi focadas em escalabilidade e comunicação:
-
-#### 1. API de WhatsApp com Baileys (Node.js)
-**O Desafio:** Criar uma conexão estável e programável com o WhatsApp sem depender de APIs oficiais caras.
-**A Solução:**
-- Implementação da biblioteca `Baileys` para simular a conexão WebSocket.
-- Sistema de **disparo de mensagens em massa** com controle de delay (para evitar banimento).
-- Listener de eventos para criar **chatbots de autoatendimento**.
-- **Techs:** JavaScript, Node.js, Baileys Library.
-[Link para o Repositório](https://github.com/maicuu/baileys-whatsapp-bot.git) 
-
-#### 2. Orquestração de CRM e Notificações (n8n)
-**O Desafio:** Integrar leads chegando de formulários web diretamente para o WhatsApp da equipe de vendas.
-**A Solução:**
-- Criação de webhook no **n8n** para receber dados.
-- Tratamento e formatação de dados (JSON) usando JavaScript nodes dentro do n8n.
-- Disparo automático de notificação via API do WhatsApp.
-- **Resultado:** Redução do tempo de resposta ao cliente de 2 horas para 5 segundos.
-- **Techs:** n8n, Webhooks, JSON.
-[Link para o Repositório](https://github.com/maicuu/automacao-crm-n8n)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
+| **Automação** | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Webhook](https://img.shields.io/badge/Webhooks-gray?style=for-the-badge&logo=webhooks&logoColor=white) |
+| **Database & Cloud** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
-### 🧠 Como eu penso (Metodologia)
+### 🚀 Projetos de Alto Impacto
 
-Não escrevo apenas código, eu desenho soluções. Meu processo de automação segue 3 etapas:
-1.  **Análise:** Entender o gargalo do processo manual.
-2.  **Otimização:** Simplificar a lógica antes de automatizar.
-3.  **Implementação:** Usar Low-code (n8n) para velocidade e Code (JS) para complexidade.
+#### 📦 **GestorFlex & Cardápio Digital**
+Ecossistema comercial completo com PDV, gestão de mesas e um módulo de delivery "iFood-like" integrado.
+- **Backend:** Java 17, Spring Boot, Spring Data JPA.
+- **Frontend:** React + Tailwind CSS.
+- **Destaque:** Sincronização em tempo real entre pedido web e painel do restaurante com impressão térmica automática.
+[Acessar Repositório](https://github.com/maicuu/gestorfleex)
+
+#### 📅 **BarberSaaS**
+Plataforma de agendamento multi-tenant com lógica complexa de disponibilidade.
+- **Stack:** Node.js, MongoDB, Google Calendar API.
+- **Destaque:** Atualmente em produção, automatizando a agenda de profissionais reais.
+
+#### 🏎️ **Flush Car**
+Gestão de estética automotiva focada em performance e controle financeiro.
+- **Stack:** React, TypeScript, Supabase.
+- **Destaque:** Dashboards dinâmicos e precificação automatizada por categoria de veículo.
+
+#### 🤖 **Automação CRM & Leads**
+Fluxo inteligente que reduziu o tempo de resposta de leads de 2 horas para 5 segundos.
+- **Stack:** n8n, JavaScript, Webhooks.
 
 ---
 
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maicuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicuu&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
-### 📫 Vamos automatizar?
+### 📫 Vamos construir a próxima grande solução?
 
-Estou aberto a projetos freelance e oportunidades em Low-code.
+Se você precisa de um sistema robusto ou quer automatizar processos que sugam seu tempo, vamos conversar!
+
+<p align="left">
+<a href="https://wa.me/5588988824078" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/maiconce" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:maiconwendel3010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+<p align="center">
+  "O código limpo sempre parece que foi escrito por alguém que se importa." 
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconce)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconwendel3010@gmail.com)
