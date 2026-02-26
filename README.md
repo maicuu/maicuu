@@ -17,9 +17,9 @@ Sou um desenvolvedor focado em resolver problemas reais de negócio e extrair va
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
 | **Data & Automação** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) |
-| **Database & QA** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-04C38E?style=for-the-badge&logo=cypress&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Database & QA** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-04C38E?style=for-the-badge&logo=cypress&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
@@ -44,6 +44,13 @@ Plataforma SaaS de agendamento multi-tenant com lógica complexa de disponibilid
 - **Stack:** Node.js, MongoDB, Google Calendar API.
 - **Destaque:** Sistema 100% em produção, atendendo clientes reais e automatizando a agenda de profissionais da área da beleza.
 [🌍 Acessar Sistema em Produção](https://agendafacilbarber.com/belezapura) | [🐙 Acessar Repositório](https://github.com/maicuu/barber-saas-core)
+
+#### 🏭 **Factory Optimization Engine**
+Sistema de inteligência industrial para maximizar lucros através de otimização algorítmica de inventário.
+- **Backend:** Java 17, Quarkus, Hibernate Panache, PostgreSQL (Neon Cloud).
+- **Frontend:** Vue 3 (Composition API), Vite, Tailwind CSS, i18n.
+- **Destaque:** Implementação de lógica de precisão absoluta com `BigDecimal` para gestão de recursos e lucro. Sistema multilíngue com cobertura total de testes automatizados (JUnit/Vitest) e CI/CD via GitHub Actions.
+[🐙 Acessar Repositório](https://github.com/maicuu/factory-optimization-challenge)
 
 #### 🎮 **LoL Performance Analyzer**
 Ferramenta de Data Analytics que consome a Riot Games API para extrair métricas de E-sports.
