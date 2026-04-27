@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=120&section=header&text=MAICON%20WENDEL&fontSize=45&fontColor=ffffff&fontAlignY=50&desc=Software%20Engineer%20%7C%20Data%20%26%20Automation&descAlignY=80&descSize=18&descColor=fde047" width="100%">
-</div>
-
-<br>
-
-<div align="center">
+  <br>
+  <h1>MAICON WENDEL</h1>
+  <h3>Software Engineer | Data and Automation</h3>
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=20&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Level+99+Full-Stack+Engineer;Mastering+Java,+Spring+%26+React;Building+SaaS,+ERP+%26+AI+Agents;Available+for+Global+Quests" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=20&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Pleno+Full-Stack+Engineer;Mastering+Java,+Spring+%26+React;Building+SaaS,+ERP+%26+AI+Agents;Available+for+Global+Quests" alt="Typing SVG" />
   </a>
 </div>
 
