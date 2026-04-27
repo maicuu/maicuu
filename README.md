@@ -1,75 +1,105 @@
-# 👾 PLAYER PROFILE: Maicon Wendel
-## 🛡️ Class: Full-Stack Software Engineer & Automation Specialist
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=250&section=header&text=Maicon%20Wendel&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20&%20Automation&descAlignY=55&descSize=22&descColor=fde047" width="100%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_GLOBAL_QUESTS-e11d48?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/github/followers/maicuu?style=for-the-badge&color=fde047&logoColor=black&labelColor=1e293b" alt="Followers">
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=22&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+SaaS+%26+ERP+Systems;Data+Analytics+%26+AI+Voice+Agents;Available+for+Global+Quests+(EU%2FPT)" alt="Typing SVG" />
+  </a>
+</div>
 
-> **Level:** Senior Core 
-> **HP:** 100/100 | **MP:** 100/100 (Coffee Loaded)
-> **Current Quest:** Transformando processos manuais e dados brutos em sistemas escaláveis, SaaS e agentes de IA para o "chão de fábrica".
-> **Base:** Brasil | **Target:** Europa / Portugal 🌍
+<br>
+
+### 👾 PLAYER CHARACTER CARD
+
+<table>
+  <tr>
+    <td width="60%">
+      <b>Level:</b> Senior Core<br>
+      <b>HP:</b> 100/100 | <b>MP:</b> 100/100 ☕<br>
+      <b>Base:</b> Brasil 🇧🇷 ➔ <b>Target:</b> Europa/Portugal 🇪🇺<br><br>
+      <i>"Transformando processos manuais e dados brutos em sistemas escaláveis, SaaS e agentes de IA."</i><br><br>
+      Sou um desenvolvedor focado em resolver problemas reais de negócio. Desenvolvo desde arquiteturas backend em Java até automações avançadas no "chão de fábrica" rodando em produção.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicuu&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&bg_color=00000000&text_color=e11d48&title_color=000000" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚔️ COMBAT SKILLS (Tech Stack)
+### ⚔️ INVENTORY / TECH STACK
 
-| Categoria | Equipamento Equipado |
-| :--- | :--- |
-| **Backend (Heavy Armor)** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Frontend (Agility)** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Automação & IA (Magic)**| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Voice_Agents-000000?style=for-the-badge&logo=openai&logoColor=white) |
-| **Database & QA (Defense)**| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-04C38E?style=for-the-badge&logo=cypress&logoColor=white) |
+<div align="center">
+  <p><b>Heavy Armor (Backend) & Agility (Frontend) & Magic (Data/Auto)</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,ts,vite,tailwind,python,postgres,mysql,docker,cypress&theme=light&perline=12" />
+  </a>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white">
+</div>
 
 ---
 
 ### 📜 MAIN QUESTS (Projetos em Produção)
 
-#### 📦 [Axia] Gestão Comercial & Delivery
-Ecossistema comercial completo com PDV, gestão de mesas e módulo de delivery integrado.
-- **Engenharia:** Java 17, Spring Boot, React + Tailwind.
-- **Impacto:** Sincronização em tempo real entre pedido web e painel com impressão térmica automática. Operando ativamente em clientes reais.
-
-#### 📅 [AgendaFácil] SaaS Multi-Tenant
-Plataforma SaaS de agendamento inteligente com lógica complexa de disponibilidade.
-- **Engenharia:** Node.js, MongoDB, Google Calendar API.
-- **Impacto:** Automatização completa de agenda para profissionais da beleza. 100% em produção.
-
-#### 🏭 [Factory Optimization Engine]
-Sistema de inteligência industrial para maximizar lucros através de otimização algorítmica de inventário (Bill of Materials).
-- **Engenharia:** Java 17, Quarkus, Hibernate Panache, Vue 3, PostgreSQL.
-- **Impacto:** Cálculo de precisão com `BigDecimal`, sistema multilíngue, cobertura de testes (JUnit/Vitest) e CI/CD.
-
----
-
-### 🏆 UNLOCKED TROPHIES (Certificações de Destaque)
-
-Como acredito em construir software que resolve problemas de *negócios*, minhas especializações equilibram código duro com metodologias ágeis e inteligência de dados.
-
-* **🤖 IA & Automação:** `N8N - AI Agents, Automations & Voice Agents (Udemy)` | `Imersão Dev Google Gemini (Alura)`
-* **🐍 Engenharia de Dados:** `Python Data Science (Santander Open Academy)` | `Python para Dados (Alura)`
-* **⚙️ Processos & Negócios:** `Lean Six Sigma Yellow Belt (FM2S)` | `OKR - Objectives & Key Results (FM2S)`
-* **🗄️ Arquitetura de Banco de Dados:** `Formação SQL com MySQL Server Oracle (Alura)` | `Administração MySQL, Segurança e Otimização`
-* **🖥️ Front-End:** `Imersão Front-End 2ª Edição (Alura)`
-
----
-
-### 📊 PLAYER STATS
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maicuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicuu&layout=compact&theme=tokyonight&border_radius=0&hide_border=false"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Axia (Gestão & Delivery)</h4>
+      <p>Ecossistema comercial completo com PDV, gestão de mesas e módulo de delivery integrado.</p>
+      <b>Stack:</b> Java 17, Spring Boot, React.<br>
+      <b>Impacto:</b> Sincronização em tempo real web/painel com impressão térmica (Operando em clientes reais).
+    </td>
+    <td width="50%" valign="top">
+      <h4>📅 AgendaFácil (SaaS)</h4>
+      <p>Plataforma de agendamento multi-tenant inteligente com lógica complexa de disponibilidade.</p>
+      <b>Stack:</b> Node.js, MongoDB, Google Calendar API.<br>
+      <b>Impacto:</b> 100% em produção, automatizando rotinas de profissionais do setor de beleza.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏭 Factory Optimization</h4>
+      <p>Inteligência industrial para maximizar lucros através de otimização de Bill of Materials.</p>
+      <b>Stack:</b> Java, Quarkus, Vue 3, PostgreSQL.<br>
+      <b>Impacto:</b> Lógica de precisão financeira com <code>BigDecimal</code>, testes automatizados e CI/CD.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 E-sports Data Analytics</h4>
+      <p>Ferramenta de extração de métricas de performance consumindo a Riot Games API.</p>
+      <b>Stack:</b> Python.<br>
+      <b>Impacto:</b> Cálculo matemático de KDA e otimização de mineração de arquivos JSON massivos.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 JOIN MY PARTY (Contato)
+### 🏆 UNLOCKED TROPHIES (Certificações Core)
 
-Se você precisa de um sistema robusto, quer orquestrar fluxos invisíveis com n8n, ou escalar sua operação, me chame no lobby:
+Em vez de focar apenas em código, busco entender os **processos do negócio**:
 
-<p align="left">
-<a href="https://wa.me/5588988824078" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/maiconce" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:maiconwendel3010@gmail.com"><img src="https://img.shields.io/badge/Email-e11d48?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+* **🤖 IA & Engenharia de Dados:** `Python Data Science` *(Santander)* • `N8N & AI Voice Agents` *(Udemy)* • `Imersão Gemini` *(Alura)*
+* **⚙️ Negócios & Qualidade:** `Lean Six Sigma Yellow Belt` *(FM2S)* • `OKR - Objectives & Key Results` *(FM2S)*
+* **🗄️ Arquitetura:** `Formação SQL com MySQL Server` *(Alura)* • `Segurança e Otimização de Banco de Dados`
+
+---
+
+### 📊 PLAYER DASHBOARD
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maicuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true&bg_color=00000000&text_color=000000&icon_color=e11d48&title_color=e11d48"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maicuu&theme=tokyonight&border_radius=0&hide_border=true&background=00000000&ring=e11d48&fire=e11d48&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000"/>
+</div>
+
+---
+
+<div align="center">
+  <b>Pronto para escalar seu produto ou orquestrar suas automações? Me chame no lobby:</b><br><br>
+  <a href="https://wa.me/5588988824078" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maiconce" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:maiconwendel3010@gmail.com"><img src="https://img.shields.io/badge/Email-e11d48?style=flat-square&logo=gmail&logoColor=white"></a>
+</div>
