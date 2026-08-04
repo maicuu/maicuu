@@ -4,7 +4,7 @@
   <h3>Full-Stack Software Engineer · Multi-Tenant SaaS · Mobile · Automation</h3>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=20&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(Backend-Leaning);Multi-Tenant+SaaS+%26+Correct+Money;Sistemas+Real-Time+%26+Mobile+Nativo;Voice+Agents+para+Gigantes+Financeiros" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=20&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(Backend-Leaning);Multi-Tenant+SaaS+%26+Correct+Money;Sistemas+Real-Time+%26+Mobile+Nativo;Voice+Agents+para+Atendimento+de+Alto+Volume" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,14 +29,14 @@
 <h2 align="center">📜 LORE (About Me)</h2>
 <p align="center"><i>"Turning manual, error-prone processes into scalable systems."</i></p>
 <p align="center">I'm a <b>Full-Stack Software Engineer (backend-leaning)</b> who builds <b>multi-tenant SaaS</b> platforms where the hard part isn't the feature — it's getting <b>money, concurrency, and tenant isolation correct</b> under real-world failure. My builds span a Spring Boot transactional core, Node/TypeScript APIs, React dashboards, and native Kotlin/Jetpack Compose apps.</p>
-<p align="center">Before SaaS, I forged call robots (AGVs) and <b>Voice Agents for financial giants</b> — Caixa Econômica Federal, Bradesco, Santander, and Nubank — automating high-volume operations at scale. I still invest heavy attribute points in <b>Automation (n8n) & AI</b> so the "factory floor" runs on autopilot and clients can focus on strategy.</p>
+<p align="center">Before SaaS, I forged call robots (AGVs) and <b>voice agents for high-volume customer-contact operations in financial services</b>, automating them at scale. I still invest heavy attribute points in <b>Automation (n8n) & AI</b> so the "factory floor" runs on autopilot and clients can focus on strategy.</p>
 <p align="center"><b>📍 Base:</b> Juazeiro do Norte, CE 🇧🇷 ➔ <b>🔥 Open to:</b> Remote (Global) · Relocation (LATAM · EU · Canada)</p>
 
 <h2 align="center">🎒 INVENTORY (Tech Stack & Skills)</h2>
 <div align="center">
   <p>
     <b>🗡️ Main Weapons (Backend):</b><br>
-    <kbd>♞ Java 17</kbd> <kbd>🍃 Spring Boot</kbd> <kbd>🟢 Node.js</kbd> <kbd>📘 TypeScript</kbd> <kbd>⚛️ Quarkus</kbd>
+    <kbd>♞ Java 17</kbd> <kbd>🍃 Spring Boot</kbd> <kbd>🟢 Node.js</kbd> <kbd>📘 TypeScript</kbd> <kbd>🐍 Python</kbd>
   </p>
   <p>
     <b>🛡️ Armor & Gear (Front & Mobile):</b><br>
@@ -60,14 +60,14 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🍔 PRATTO DELIVERY</h3>
-      <p><i>Four-Surface Delivery Ecosystem</i></p>
+      <h3>🍔 CHISPA</h3>
+      <p><i>Four-Surface Delivery Ecosystem · in development</i></p>
       <hr>
       <p align="left">A multi-tenant food-delivery SaaS spanning a customer app, a courier app, a restaurant dashboard, and a Spring Boot core — with PostGIS geospatial search, a guarded order state machine, and real-time WebSocket coordination.</p>
       <p align="left">🛠️ <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
     </td>
     <td width="50%" align="center">
-      <h3>💈 BARBER SAAS</h3>
+      <h3>💈 AGENDAFÁCIL</h3>
       <p><i>Calendar-Native Booking & Billing</i></p>
       <hr>
       <p align="left">White-label multi-tenant platform with <b>Google Calendar as the source of truth</b>, Mercado Pago recurring billing, and bot-resistant public scheduling. <b>In production with paying shops.</b></p>
@@ -79,7 +79,7 @@
       <h3>🐂 METABOI ERP</h3>
       <p><i>Full-Cycle AgriTech SaaS (Solo)</i></p>
       <hr>
-      <p align="left">Cattle management from calf to slaughter — 14 domain modules, a real-time cost-per-arroba engine, a proactive alert engine (8 parallel queries), and an offline-ready PWA. <b>Built end-to-end by one engineer.</b></p>
+      <p align="left">Multi-tenant SaaS for full-cycle cattle management, in production. <b>Built end-to-end by one engineer.</b> Architecture detail on request — the product is in an active sale negotiation.</p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>TypeScript</kbd> <kbd>Supabase</kbd> <kbd>React PWA</kbd></p>
     </td>
     <td width="50%" align="center">
@@ -87,7 +87,7 @@
       <p><i>Enterprise Experience & Skills</i></p>
       <hr>
       <p align="left">
-        ✔️ <b>Enterprise:</b> Voice Agents for Caixa, Bradesco, Santander & Nubank<br>
+        ✔️ <b>Enterprise:</b> Voice agents for high-volume financial services operations<br>
         ✔️ <b>AI & Automation:</b> n8n, Python, Gemini<br>
         ✔️ <b>Mobile:</b> Native Android, Jetpack Compose<br>
         ✔️ <b>Process:</b> Lean Six Sigma (Yellow Belt), OKR
@@ -108,14 +108,14 @@
 <h2 align="center">📜 LORE (Sobre Mim)</h2>
 <p align="center"><i>"Transformando processos manuais e propensos a erro em sistemas escaláveis."</i></p>
 <p align="center">Sou um <b>Engenheiro de Software Full-Stack (com foco em backend)</b> que constrói plataformas <b>SaaS multi-tenant</b> onde o difícil não é a feature — é acertar <b>dinheiro, concorrência e isolamento entre tenants</b> sob falhas do mundo real. Minhas <i>builds</i> vão de um core transacional em Spring Boot, APIs Node/TypeScript e dashboards React a apps nativos em Kotlin/Jetpack Compose.</p>
-<p align="center">Antes do SaaS, forjei robôs de atendimento (URAs/AGVs) e <b>Voice Agents para gigantes financeiros</b> — Caixa Econômica Federal, Bradesco, Santander e Nubank — automatizando operações de alto volume em escala. Sigo investindo pesados pontos de atributo em <b>Automação (n8n) & IA</b> para que o "chão de fábrica" rode no automático e os clientes foquem na estratégia.</p>
+<p align="center">Antes do SaaS, forjei robôs de atendimento (URAs/AGVs) e <b>agentes de voz para operações de atendimento de alto volume no setor financeiro</b>, automatizando-as em escala. Sigo investindo pesados pontos de atributo em <b>Automação (n8n) & IA</b> para que o "chão de fábrica" rode no automático e os clientes foquem na estratégia.</p>
 <p align="center"><b>📍 Base:</b> Juazeiro do Norte, CE 🇧🇷 ➔ <b>🔥 Disponível para:</b> Remoto (Global) · Realocação (LATAM · Europa · Canadá)</p>
 
 <h2 align="center">🎒 INVENTÁRIO (Stack & Skills)</h2>
 <div align="center">
   <p>
     <b>🗡️ Armas Principais (Backend):</b><br>
-    <kbd>♞ Java 17</kbd> <kbd>🍃 Spring Boot</kbd> <kbd>🟢 Node.js</kbd> <kbd>📘 TypeScript</kbd> <kbd>⚛️ Quarkus</kbd>
+    <kbd>♞ Java 17</kbd> <kbd>🍃 Spring Boot</kbd> <kbd>🟢 Node.js</kbd> <kbd>📘 TypeScript</kbd> <kbd>🐍 Python</kbd>
   </p>
   <p>
     <b>🛡️ Armadura & Equipamento (Front & Mobile):</b><br>
@@ -139,14 +139,14 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🍔 PRATTO DELIVERY</h3>
-      <p><i>Ecossistema de Delivery (4 Superfícies)</i></p>
+      <h3>🍔 CHISPA</h3>
+      <p><i>Ecossistema de Delivery (4 Superfícies) · em desenvolvimento</i></p>
       <hr>
       <p align="left">SaaS de delivery multi-tenant com app do cliente, app do entregador, dashboard do restaurante e um core Spring Boot — com busca geoespacial PostGIS, máquina de estados de pedido protegida e coordenação em tempo real via WebSocket.</p>
       <p align="left">🛠️ <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
     </td>
     <td width="50%" align="center">
-      <h3>💈 BARBER SAAS</h3>
+      <h3>💈 AGENDAFÁCIL</h3>
       <p><i>Agendamento & Cobrança Calendar-Native</i></p>
       <hr>
       <p align="left">Plataforma white-label multi-tenant com <b>Google Calendar como fonte da verdade</b>, cobrança recorrente via Mercado Pago e agendamento público resistente a bots. <b>Em produção com barbearias pagantes.</b></p>
@@ -158,7 +158,7 @@
       <h3>🐂 METABOI ERP</h3>
       <p><i>SaaS AgriTech de Ciclo Completo (Solo)</i></p>
       <hr>
-      <p align="left">Gestão de gado do bezerro ao abate — 14 módulos de domínio, motor de custo-por-arroba em tempo real, motor de alertas proativos (8 queries paralelas) e um PWA offline-ready. <b>Construído de ponta a ponta por um único engenheiro.</b></p>
+      <p align="left">SaaS multi-tenant de gestão pecuária de ciclo completo, em produção. <b>Construído de ponta a ponta por um único engenheiro.</b> Detalhe de arquitetura sob consulta — o produto está em negociação de venda.</p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>TypeScript</kbd> <kbd>Supabase</kbd> <kbd>React PWA</kbd></p>
     </td>
     <td width="50%" align="center">
@@ -166,7 +166,7 @@
       <p><i>Experiência Enterprise & Skills</i></p>
       <hr>
       <p align="left">
-        ✔️ <b>Enterprise:</b> Voice Agents para Caixa, Bradesco, Santander e Nubank<br>
+        ✔️ <b>Enterprise:</b> Agentes de voz para operações de alto volume no setor financeiro<br>
         ✔️ <b>IA & Automação:</b> n8n, Python, Gemini<br>
         ✔️ <b>Mobile:</b> Android Nativo, Jetpack Compose<br>
         ✔️ <b>Processos:</b> Lean Six Sigma (Yellow Belt), OKR
