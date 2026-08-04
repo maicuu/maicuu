@@ -60,42 +60,71 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🍔 CHISPA</h3>
-      <p><i>Four-Surface Delivery Ecosystem · in development</i></p>
+      <h3>🍽️ CHISPA GESTÃO</h3>
+      <p><i>Multi-tenant food-service ERP · in production</i></p>
       <hr>
-      <p align="left">A multi-tenant food-delivery SaaS spanning a customer app, a courier app, a restaurant dashboard, and a Spring Boot core — with PostGIS geospatial search, a guarded order state machine, and real-time WebSocket coordination.</p>
-      <p align="left">🛠️ <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
-      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa"><b>Case study</b></a></p>
+      <p align="left">Restaurant ERP where tenant isolation is <b>declared once at the ORM layer</b> instead of remembered per endpoint, authorization defaults to deny, and 120 automated tests back it up.</p>
+      <p align="left">🛠️ <kbd>Java 17</kbd> <kbd>Spring Boot</kbd> <kbd>PostgreSQL</kbd> <kbd>React 19</kbd> <kbd>Electron</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa-gestao"><b>Case study</b></a> &nbsp;·&nbsp; 🌐 <a href="https://lmtools.com.br/"><b>Live</b></a></p>
     </td>
     <td width="50%" align="center">
       <h3>💈 AGENDAFÁCIL</h3>
-      <p><i>Calendar-Native Booking & Billing</i></p>
+      <p><i>Calendar-native booking & billing · in production</i></p>
       <hr>
-      <p align="left">White-label multi-tenant platform with <b>Google Calendar as the source of truth</b>, Mercado Pago recurring billing, and bot-resistant public scheduling. <b>In production with paying shops.</b></p>
+      <p align="left">White-label multi-tenant platform with <b>Google Calendar as the source of truth</b> — no appointments table at all — plus Mercado Pago recurring billing. <b>3 paying shops.</b></p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>OAuth2</kbd></p>
       <p align="left">📄 <a href="https://github.com/maicuu/case-study-agendafacil"><b>Case study</b></a> &nbsp;·&nbsp; 🌐 <a href="https://agendafacilbarber.com/belezapura"><b>Live</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
+      <h3>🗺️ LOTEGEST</h3>
+      <p><i>Land-subdivision platform · internal daily use</i></p>
+      <hr>
+      <p align="left">Three services, two languages: a <b>Python/FastAPI GIS microservice</b> turns AutoCAD plans into a georeferenced map, on a Spring Boot financial core with BigDecimal-correct instalments and an append-only audit trail.</p>
+      <p align="left">🛠️ <kbd>Java 17</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Python</kbd> <kbd>FastAPI</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-lotegest"><b>Case study</b></a></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>💅 GLAMFLOW</h3>
+      <p><i>Multi-tenant salon SaaS · in development</i></p>
+      <hr>
+      <p align="left">A booking and the event that describes it commit in the <b>same transaction</b> — a transactional outbox, so no reminder is ever lost or phantom. Conflicts return a real <code>409</code>.</p>
+      <p align="left">🛠️ <kbd>Java 17</kbd> <kbd>Spring Boot</kbd> <kbd>PostgreSQL</kbd> <kbd>React</kbd> <kbd>TypeScript</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-glamflow"><b>Case study</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛵 CHISPA</h3>
+      <p><i>Four-surface delivery ecosystem · in development</i></p>
+      <hr>
+      <p align="left">Customer app, courier app, merchant dashboard and a Spring Boot core — a nine-state guarded order machine, PostGIS geodesic search, and side effects decoupled with <code>AFTER_COMMIT</code>.</p>
+      <p align="left">🛠️ <kbd>Java 21</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa"><b>Case study</b></a></p>
+    </td>
+    <td width="50%" align="center">
       <h3>🐂 METABOI ERP</h3>
-      <p><i>Full-Cycle AgriTech SaaS (Solo)</i></p>
+      <p><i>Full-cycle AgriTech SaaS · in production</i></p>
       <hr>
       <p align="left">Multi-tenant SaaS for full-cycle cattle management, in production. <b>Built end-to-end by one engineer.</b> Architecture detail on request — the product is in an active sale negotiation.</p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>TypeScript</kbd> <kbd>Supabase</kbd> <kbd>React PWA</kbd></p>
       <p align="left">🌐 <a href="https://app.lmtools.com.br/"><b>Live</b></a></p>
     </td>
-    <td width="50%%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>🏆 UNLOCKED TROPHIES</h3>
-      <p><i>Enterprise Experience & Skills</i></p>
+      <p><i>Enterprise Experience &amp; Skills</i></p>
       <hr>
       <p align="left">
         ✔️ <b>Enterprise:</b> Voice agents for high-volume financial services operations<br>
-        ✔️ <b>AI & Automation:</b> n8n, Python, Gemini<br>
+        ✔️ <b>AI &amp; Automation:</b> n8n, Python, Gemini<br>
         ✔️ <b>Mobile:</b> Native Android, Jetpack Compose<br>
         ✔️ <b>Process:</b> Lean Six Sigma (Yellow Belt), OKR
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -142,42 +171,71 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🍔 CHISPA</h3>
-      <p><i>Ecossistema de Delivery (4 Superfícies) · em desenvolvimento</i></p>
+      <h3>🍽️ CHISPA GESTÃO</h3>
+      <p><i>ERP multi-tenant para food service · em produção</i></p>
       <hr>
-      <p align="left">SaaS de delivery multi-tenant com app do cliente, app do entregador, dashboard do restaurante e um core Spring Boot — com busca geoespacial PostGIS, máquina de estados de pedido protegida e coordenação em tempo real via WebSocket.</p>
-      <p align="left">🛠️ <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
-      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa"><b>Case study</b></a></p>
+      <p align="left">ERP de restaurante em que o isolamento entre lojas é <b>declarado uma vez na camada do ORM</b> em vez de lembrado endpoint a endpoint, a autorização nasce negando, e 120 testes automatizados sustentam isso.</p>
+      <p align="left">🛠️ <kbd>Java 17</kbd> <kbd>Spring Boot</kbd> <kbd>PostgreSQL</kbd> <kbd>React 19</kbd> <kbd>Electron</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa-gestao"><b>Case study</b></a> &nbsp;·&nbsp; 🌐 <a href="https://lmtools.com.br/"><b>No ar</b></a></p>
     </td>
     <td width="50%" align="center">
       <h3>💈 AGENDAFÁCIL</h3>
-      <p><i>Agendamento & Cobrança Calendar-Native</i></p>
+      <p><i>Agendamento calendar-native · em produção</i></p>
       <hr>
-      <p align="left">Plataforma white-label multi-tenant com <b>Google Calendar como fonte da verdade</b>, cobrança recorrente via Mercado Pago e agendamento público resistente a bots. <b>Em produção com barbearias pagantes.</b></p>
+      <p align="left">Plataforma white-label multi-tenant com o <b>Google Calendar como fonte da verdade</b> — não existe tabela de agendamentos — e cobrança recorrente via Mercado Pago. <b>3 barbearias pagantes.</b></p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>OAuth2</kbd></p>
       <p align="left">📄 <a href="https://github.com/maicuu/case-study-agendafacil"><b>Case study</b></a> &nbsp;·&nbsp; 🌐 <a href="https://agendafacilbarber.com/belezapura"><b>No ar</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
+      <h3>🗺️ LOTEGEST</h3>
+      <p><i>Gestão de loteamentos · uso interno diário</i></p>
+      <hr>
+      <p align="left">Três serviços, duas linguagens: um <b>microsserviço GIS em Python/FastAPI</b> transforma plantas do AutoCAD em mapa georreferenciado, sobre um núcleo financeiro Spring Boot com parcelas corretas em BigDecimal e trilha de auditoria append-only.</p>
+      <p align="left">🛠️ <kbd>Java 17</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Python</kbd> <kbd>FastAPI</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-lotegest"><b>Case study</b></a></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>💅 GLAMFLOW</h3>
+      <p><i>SaaS multi-tenant para salões · em desenvolvimento</i></p>
+      <hr>
+      <p align="left">A reserva e o evento que a descreve comitam na <b>mesma transação</b> — um outbox transacional, então nenhum lembrete se perde nem vira fantasma. Conflito devolve <code>409</code> de verdade.</p>
+      <p align="left">🛠️ <kbd>Java 17</kbd> <kbd>Spring Boot</kbd> <kbd>PostgreSQL</kbd> <kbd>React</kbd> <kbd>TypeScript</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-glamflow"><b>Case study</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛵 CHISPA</h3>
+      <p><i>Ecossistema de delivery (4 superfícies) · em desenvolvimento</i></p>
+      <hr>
+      <p align="left">App do cliente, app do entregador, painel do lojista e um core Spring Boot — máquina de pedido de nove estados protegida por papel, busca geodésica PostGIS e efeitos colaterais desacoplados com <code>AFTER_COMMIT</code>.</p>
+      <p align="left">🛠️ <kbd>Java 21</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa"><b>Case study</b></a></p>
+    </td>
+    <td width="50%" align="center">
       <h3>🐂 METABOI ERP</h3>
-      <p><i>SaaS AgriTech de Ciclo Completo (Solo)</i></p>
+      <p><i>SaaS AgriTech de ciclo completo · em produção</i></p>
       <hr>
       <p align="left">SaaS multi-tenant de gestão pecuária de ciclo completo, em produção. <b>Construído de ponta a ponta por um único engenheiro.</b> Detalhe de arquitetura sob consulta — o produto está em negociação de venda.</p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>TypeScript</kbd> <kbd>Supabase</kbd> <kbd>React PWA</kbd></p>
       <p align="left">🌐 <a href="https://app.lmtools.com.br/"><b>No ar</b></a></p>
     </td>
-    <td width="50%%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>🏆 TROFÉUS DESBLOQUEADOS</h3>
-      <p><i>Experiência Enterprise & Skills</i></p>
+      <p><i>Experiência Enterprise &amp; Skills</i></p>
       <hr>
       <p align="left">
         ✔️ <b>Enterprise:</b> Agentes de voz para operações de alto volume no setor financeiro<br>
-        ✔️ <b>IA & Automação:</b> n8n, Python, Gemini<br>
+        ✔️ <b>IA &amp; Automação:</b> n8n, Python, Gemini<br>
         ✔️ <b>Mobile:</b> Android Nativo, Jetpack Compose<br>
         ✔️ <b>Processos:</b> Lean Six Sigma (Yellow Belt), OKR
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
