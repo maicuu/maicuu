@@ -65,6 +65,7 @@
       <hr>
       <p align="left">A multi-tenant food-delivery SaaS spanning a customer app, a courier app, a restaurant dashboard, and a Spring Boot core — with PostGIS geospatial search, a guarded order state machine, and real-time WebSocket coordination.</p>
       <p align="left">🛠️ <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa"><b>Case study</b></a></p>
     </td>
     <td width="50%" align="center">
       <h3>💈 AGENDAFÁCIL</h3>
@@ -72,6 +73,7 @@
       <hr>
       <p align="left">White-label multi-tenant platform with <b>Google Calendar as the source of truth</b>, Mercado Pago recurring billing, and bot-resistant public scheduling. <b>In production with paying shops.</b></p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>OAuth2</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-agendafacil"><b>Case study</b></a> &nbsp;·&nbsp; 🌐 <a href="https://agendafacilbarber.com/belezapura"><b>Live</b></a></p>
     </td>
   </tr>
   <tr>
@@ -81,8 +83,9 @@
       <hr>
       <p align="left">Multi-tenant SaaS for full-cycle cattle management, in production. <b>Built end-to-end by one engineer.</b> Architecture detail on request — the product is in an active sale negotiation.</p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>TypeScript</kbd> <kbd>Supabase</kbd> <kbd>React PWA</kbd></p>
+      <p align="left">🌐 <a href="https://app.lmtools.com.br/"><b>Live</b></a></p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%%" align="center">
       <h3>🏆 UNLOCKED TROPHIES</h3>
       <p><i>Enterprise Experience & Skills</i></p>
       <hr>
@@ -144,6 +147,7 @@
       <hr>
       <p align="left">SaaS de delivery multi-tenant com app do cliente, app do entregador, dashboard do restaurante e um core Spring Boot — com busca geoespacial PostGIS, máquina de estados de pedido protegida e coordenação em tempo real via WebSocket.</p>
       <p align="left">🛠️ <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>PostGIS</kbd> <kbd>Kotlin</kbd> <kbd>React</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-chispa"><b>Case study</b></a></p>
     </td>
     <td width="50%" align="center">
       <h3>💈 AGENDAFÁCIL</h3>
@@ -151,6 +155,7 @@
       <hr>
       <p align="left">Plataforma white-label multi-tenant com <b>Google Calendar como fonte da verdade</b>, cobrança recorrente via Mercado Pago e agendamento público resistente a bots. <b>Em produção com barbearias pagantes.</b></p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>OAuth2</kbd></p>
+      <p align="left">📄 <a href="https://github.com/maicuu/case-study-agendafacil"><b>Case study</b></a> &nbsp;·&nbsp; 🌐 <a href="https://agendafacilbarber.com/belezapura"><b>No ar</b></a></p>
     </td>
   </tr>
   <tr>
@@ -160,8 +165,9 @@
       <hr>
       <p align="left">SaaS multi-tenant de gestão pecuária de ciclo completo, em produção. <b>Construído de ponta a ponta por um único engenheiro.</b> Detalhe de arquitetura sob consulta — o produto está em negociação de venda.</p>
       <p align="left">🛠️ <kbd>Node.js</kbd> <kbd>TypeScript</kbd> <kbd>Supabase</kbd> <kbd>React PWA</kbd></p>
+      <p align="left">🌐 <a href="https://app.lmtools.com.br/"><b>No ar</b></a></p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%%" align="center">
       <h3>🏆 TROFÉUS DESBLOQUEADOS</h3>
       <p><i>Experiência Enterprise & Skills</i></p>
       <hr>
